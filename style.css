@@ -451,8 +451,8 @@ video{
 
 @media screen and (max-width:600px){
     #face-container{
-        background-size: 130% 100%;
-        height:40%;
+        background-size: 150% 100%;
+        height:210px;
     }
     .face-text{
         display: flex;
@@ -473,7 +473,7 @@ video{
         color: #f2f2f2;
         font-size: 15px;
         font-weight: 1000;
-        padding-top: 35%;
+        padding-top: 28%;
     }
 
     .descContainer{
